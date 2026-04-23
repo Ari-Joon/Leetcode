@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/Ari-Joon/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Ari-Joon/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Ari-Joon/Leetcode/tree/master/1907-count-salary-categories) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ari-Joon/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ari-Joon/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
